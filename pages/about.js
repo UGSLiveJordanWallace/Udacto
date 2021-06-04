@@ -10,10 +10,9 @@ function About() {
                 <meta name="description" content="Udacto is a voice assisstant that performs basic computer tasks." />
                 <link rel="icon" href="/images/favicon.ico" />
             </Head>
+
             <h1 className={styles.title}>Jordan Wallace</h1>
-            
             <Image className={styles.image} src={"/images/Jordan's About Me Photo.jpg"} width={500} height={500} />
-            
             <div className={styles.paragraph}>
                 <p>Hello I am Jordan Wallace from Maryland. I am a passionate software, web, and game developer, who is studying both AP computer science and computer science principles at Bishop McNamara Highschool. 
                 I wasn't always a developer though, in the beginning of 2020 I was an athlete trying to make it in basketball. Basketball, to me, was my only option. So when Covid 19 hit, all of the effort towards basketball unfortunately went away. 
