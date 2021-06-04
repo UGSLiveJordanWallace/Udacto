@@ -59,7 +59,7 @@ echo Executable copied from "C:\ProgramData\Udacto"
 echo We Did It!!! Check This Out
 
 echo starting "Udacto"...
-"C:\ProgramData\Udacto\udacto-stable\Udacto.exe"
+"C:\ProgramData\Udacto\Udacto.exe"
 
 echo Bye Bye... 
 exit
